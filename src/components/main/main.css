@@ -1,0 +1,74 @@
+
+#main{
+    background:url("../../img/image 16.svg")no-repeat center/cover;
+    min-height: 100vh;
+}
+
+@font-face {
+    font-family: RoadRadio ;
+    src: url("ofont.ru_RoadRadio.ttf");
+}
+
+@font-face {
+    font-family: Gilroy ;
+    src: url("Gilroy-Light.otf");
+}
+
+.amet{
+    padding-top: 220px;
+}
+
+.text-two{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    /*font-weight: 400;*/
+    font-size: 5vw;
+    line-height: 75%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.project{
+    font-family: Gilroy ,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.ced{
+    margin-left: 430px;
+}
+
+.minim{
+    width: 270px;
+    height: 76px;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 96.67%);
+    opacity: 0.8;
+    filter: blur(58.5px);
+    border-radius: 6px;
+    position: relative;
+}
+
+.btn-one{
+    position: absolute;
+    width: 250px;
+    height: 66px;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 96.67%);
+    border-radius: 6px;
+    border: none;
+    margin-top: -80px;
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.5vw;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

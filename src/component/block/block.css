@@ -1,0 +1,70 @@
+#block{
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 100vh;
+}
+
+.rec-all{
+    width: 350px;
+    height: 230px;
+}
+
+.all_erc{
+    width: 350px;
+}
+
+.sit_cass{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 130px;
+    margin-bottom: 20px;
+}
+
+
+.anim{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 90.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-bottom: 30px;
+    /*display: none;*/
+    margin-top: -10px;
+}
+
+.anim.cat{
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 140.52%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.anim.anime{
+  /*display: block;*/
+
+}
+
+.keep{
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 49.27%, #EF9F30 100%);
+    height: 33px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.valid{
+    margin-left: 43%;
+    margin-top: -42px;
+    position: absolute;
+    cursor: pointer;
+}

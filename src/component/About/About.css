@@ -1,0 +1,75 @@
+#about{
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 100vh;
+}
+.the{
+    font-family: RoadRadio ,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 100%;
+    color: #FFFFFF;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.ist{
+    font-family: Gilroy ,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #bbb7b7;
+}
+
+.under{
+    color: #FFFFFF;
+}
+
+.under-one{
+    text-decoration-line: underline;
+
+}
+
+.ist-one{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+.lines0{
+    width: 1px;
+    height: 285px;
+    opacity: 0.15;
+    /*border: 1px solid #FFFFFF;*/
+    background: #FFFFFF;
+    /*transform: rotate(90deg);*/
+}
+
+.number{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 100%;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 49.27%, #EF9F30 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-left: 30px;
+}
+
+.string{
+    font-family: Gilroy ,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    margin-left: 32px;
+    color: #FFFFFF;
+}

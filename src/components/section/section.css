@@ -1,0 +1,127 @@
+@font-face {
+    font-family:VerbenaC ;
+    src: url("VerbenaC.ttf") ;
+}
+
+
+#section{
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 100vh;
+}
+
+
+.diu{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.1vw;
+    line-height: 20px;
+    color: #FFFFFF;
+    padding-top:40px;
+    margin-bottom: 20px;
+}
+
+.dolor{
+    font-family: RoadRadio ,sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.project-one{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    font-size: 1vw;
+    /*opacity: 0.5;*/
+    color: #9a9696;
+    margin-bottom: 20px;
+}
+
+.nwe{
+    color: #FFFFFF;
+}
+
+.vitae{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-decoration-line: underline;
+    background: linear-gradient(90deg, #F63588 0.93%, #F19932 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.one{
+    /*position: absolute;*/
+    margin-top: -28px;
+}
+
+.block_three{
+    margin-top:63px;
+    width: 400px;
+    height: 306px;
+    background: #1F232E;
+    border-radius: 6px;
+}
+
+.images-twos{
+    width: 370px;
+}
+
+.code{
+    position: absolute;
+    font-family: VerbenaC , sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.2vw;
+    line-height: 119.91%;
+    text-align: right;
+    color: #FFFFFF;
+    opacity: 0.2;
+    margin-left: 250px;
+    margin-top: -50px;
+    transform: rotate(10.13deg);
+}
+
+.auto{
+    width: 20%;
+    margin-top: 60px;
+}
+
+.words{
+    width: 100%;
+    height: 33px;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 49.27%, #EF9F30 100%);
+    margin-top: 83px;
+}
+
+.comm{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 9px;
+}
+
+.links{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-top: 9px;
+}

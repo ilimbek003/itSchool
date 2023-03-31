@@ -1,0 +1,175 @@
+#footer{
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 100vh;
+}
+
+.logos_one{
+    padding-top: 130px;
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2vw;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.Rectangle_one{
+    width: 330px;
+    height: 270px;
+    cursor: pointer;
+}
+
+.block{
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 49.27%, #EF9F30 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.fa-telegram{
+   font-size: 30px;
+    margin: 10px 10px;
+}
+
+.fuse{
+    font-size: 30px;
+    margin: 10px 12px;
+}
+.fa-whatsapp{
+    font-size: 30px;
+    margin: 10px 12px;
+}
+.fa-instagram{
+    font-size: 30px;
+    margin: 10px 12px;
+}
+
+.fas-one{
+    width: 50px;
+    height: 50px;
+    background: #FFFFFF;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    margin: 0 10px;
+}
+
+.contact{
+
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 40px;
+    color: #FFFFFF;
+    margin: 0 10px;
+    padding-top: 100px;
+}
+
+.fa-phone{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 0 10px;
+
+}
+
+.tel{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.8vw;
+    line-height: 31px;
+    color: #FFFFFF;
+    text-decoration: none;
+
+}
+
+.fa-envelope{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.email{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 23px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.fa-location-dot{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin: 0 10px;
+}
+
+.map{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5vw;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.online{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin: 0 10px;
+}
+
+.once{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.2vw;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.iframe{
+    width: 470px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.blockers{
+    width:100%;
+    height: 60px;
+    background: #1F232E;
+    border-radius: 6px;
+    margin-top: 100px;
+}
+
+.text_two{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    opacity: 0.9;
+    padding-top: 24px;
+}
+
+.text_two_tree{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    opacity: 0.9;
+    padding-top: 24px;
+}

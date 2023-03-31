@@ -1,0 +1,142 @@
+#content {
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 60vh;
+}
+
+.states-one {
+    font-family: RoadRadio, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+    padding-top: 100px;
+}
+
+.magic {
+    margin-left: -35px;
+}
+
+.auth {
+    margin-left: 180px;
+}
+
+.blocs {
+    width: 100%;
+    height: 51px;
+    background: #1F232E;
+    border-radius: 6px;
+    cursor: pointer;
+
+}
+
+.tree{
+    /*height: 100px;*/
+    /*overflow: hidden;*/
+    /*transition: all 0.5s;*/
+    display: none;
+ }
+
+.tree.decks {
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.5s cubic-bezier(1, 0, 1, 0);
+}
+
+.arty {
+    font-family: Gilroy, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 145.5%;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.plain-one {
+    width: 589px;
+    font-family: Gilroy, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 145.5%;
+    color: #9f9d9d;
+    margin-left: 5px;
+    padding-top: 10px;
+}
+
+
+.plain {
+    font-family: Gilroy, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 145.5%;
+    color: #9f9d9d;
+}
+
+.content {
+    color: #FFFFFF;
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+
+.content.show {
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.5s cubic-bezier(1, 0, 1, 0);
+}
+
+.design {
+    width: 370px;
+    height: 513px;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 96.67%);
+    border-radius: 6px;
+}
+
+.retry {
+    font-family: Gilroy, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 145.5%;
+    color: #606678;
+    cursor: pointer;
+    overflow: hidden;
+
+}
+
+.retry:nth-child(6){
+  display: none;
+}
+
+
+.flex{
+    margin-left: 180px;
+    padding-top: 50px;
+}
+
+.boot{
+    transition: all 0.5s;
+}
+
+.boot.tools{
+    transform: rotate(180deg);
+    transition: all 0.5s;
+}
+
+.contend{
+    max-height: 150px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+
+.contend.etc{
+    max-height: 9999px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+

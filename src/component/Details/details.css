@@ -1,0 +1,48 @@
+#details {
+    background: linear-gradient(180deg, rgba(23, 26, 35, 2) 0%, #171A23 100%);
+    min-height: 50vh;
+}
+
+.details-one {
+    font-family: RoadRadio, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vw;
+    line-height: 70%;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 50px;
+}
+
+.elite {
+    font-family: Gilroy, sans-serif;
+    font-style: normal;
+    /*font-weight: 400;*/
+    font-size: 18px;
+    line-height: 130%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.omg{
+    margin-left: 14px;
+}
+
+.episode{
+    font-family: Gilroy ,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 60%;
+    color: #FFFFFF;
+}
+
+.months{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size:2vw;
+    line-height: 100%;
+    color:#27D1CE ;
+}

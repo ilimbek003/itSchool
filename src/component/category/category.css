@@ -1,0 +1,52 @@
+#category{
+    background: url("../../img/image 16.svg")no-repeat center /cover;
+    min-height: 60vh;
+}
+
+.name_of{
+    font-family: Gilroy , sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 145.5%;
+    color: #FFFFFF;
+    padding-top: 130px;
+}
+
+.turbo{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #FFFFFF;
+    margin-top: 158px;
+    margin-left: 10px;
+}
+
+.consecrate{
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 4vw;
+    line-height: 80%;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.btn_one{
+    position: absolute;
+    width: 250px;
+    height: 66px;
+    background: linear-gradient(90deg, #F5318D 0%, #FF5F41 96.67%);
+    border-radius: 6px;
+    border: none;
+    font-family: RoadRadio , sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 1.5vw;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: -56px;
+    /*margin-left: 7.5%;*/
+}
